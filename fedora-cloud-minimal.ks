@@ -20,7 +20,7 @@ lang en_US.UTF-8
 firewall --disabled
 
 # Root password
-# rootpw --plaintext password
+rootpw --plaintext password
 
 # System services
 services --disabled="chronyd" --enabled=NetworkManager,sshd,cloud-init,cloud-init-local,cloud-config,cloud-final
