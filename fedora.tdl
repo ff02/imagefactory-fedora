@@ -1,0 +1,12 @@
+<template>
+    <name>F27-CloudImage</name>
+    <os>
+        <name>Fedora</name>
+        <version>27</version>
+        <arch>x86_64</arch>
+        <install type='url'>
+            <url>http://ftp.funet.fi/pub/mirrors/fedora.redhat.com/pub/fedora/linux/releases/27/Everything/x86_64/os</url>
+        </install>
+    </os>
+</template>
+
